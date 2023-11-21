@@ -9,7 +9,7 @@ pygmentsStyle = "monokai"
 
 [params]
    	footer = 'Elias Braun'
-   	description = '17 year old student from Germany'
+   	description = '17 year old student from Germany ... I am using Arch btw ... My primary editor is NeoVim ...'
 	avatarURL = 'img/avatar.jpg'
 	AvaterAltText = 'Avatar'
 	avaterSize = 'size-m'
